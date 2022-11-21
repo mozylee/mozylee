@@ -26,6 +26,5 @@ You can click the Preview link to take a look at your changes.
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mozylee&langs_count=4&layout=compact">
     </a>
 </p>
-<p>
-    <img src="https://profile-counter.glitch.me/{mozylee}/count.svg" alt="mozylee :: Visitor's Count" />
-</p>
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=mozylee.mozylee)
