@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 - 👨‍💻 I’m interested in solving algorithms problems
     - Currently I like to solve problems at [BOJ](https://www.acmicpc.net/) and [Programmers](https://programmers.co.kr/)
     - I usually use Java and Python to solve algorithms problems
-    - You can see it below
+    - As you can see it below...
 <p>
     <a href="https://solved.ac/whyy">
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=whyy">
