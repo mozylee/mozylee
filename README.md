@@ -1,6 +1,6 @@
 ![Self-Introduction](./static/img/carbon.png)
 - 👋 Hi, I’m JungJu 'mozy' Lee
-- 🔭 I’m currently working for ...
+- 🔭 I’m currently working for ... [Daou Tech](https://daou.co.kr/)
 - 🌱 I’m currently learning ...
     - Spring Boot
     - Redis
